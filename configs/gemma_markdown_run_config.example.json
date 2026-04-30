@@ -1,0 +1,13 @@
+{
+  "markdown_root": "D:/fire-data/.cache/qwen_pdf_markdown_remaining/output_markdown",
+  "year_csv_root": "D:/fire-data",
+  "csv_name": "{year}_gemma_markdown.csv",
+  "model": "google/gemma-4-26b-a4b",
+  "api_base_url": "http://127.0.0.1:1234/v1",
+  "api_key_env": "LM_STUDIO_API_KEY",
+  "timeout_seconds": 180,
+  "start_year": 2001,
+  "end_year": 2025,
+  "max_snippets": 6,
+  "max_chars_per_field": 28000
+}
