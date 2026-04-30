@@ -1,0 +1,8 @@
+akshare>=1.13
+matplotlib>=3.8
+numpy>=1.26
+pandas>=2.2
+PyMuPDF>=1.24
+requests>=2.31
+scikit-learn>=1.4
+scipy>=1.12

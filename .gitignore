@@ -1,0 +1,83 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Large local data workspace
+.cache/
+.tmp/
+.tmp*/
+年报/
+2001/
+2002/
+2003/
+2004/
+2005/
+2006/
+2007/
+2008/
+2009/
+2010/
+2011/
+2012/
+2013/
+2014/
+2015/
+2016/
+2017/
+2018/
+2019/
+2020/
+2021/
+2022/
+2023/
+2024/
+2025/
+
+# Generated outputs
+backtest_output/
+backtest_output_*/
+allocation_transform_experiments_*/
+drawdown_*/
+factor_*/
+fcf_lower_bound_search_*/
+live_period_eval_*/
+raw_factor_3d_view_*/
+old_qwen_ok_json_merged_*/
+全量json汇总_*/
+最后*人工处理_*/
+financial_data_by_year/
+
+# Runtime artifacts
+*.sqlite
+progress_status.txt
+progress_status.json
+extract_log.csv
+raw_json/
+
+# Large documents / archives / logs
+*.pdf
+*.zip
+*.7z
+*.err.txt
+*.out.txt
+cninfo_download.log
